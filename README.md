@@ -1,4 +1,4 @@
-# Automaion test running
+# Automation test running
 https://youtu.be/OtpbW8o_8oc
 
 # Test Scenario
