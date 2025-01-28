@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite TestNG x Selenium">
+    <test name="Selenium Automation">
+        <classes>
+<!--            <class name="com.belajarselenium.LoginTest" />-->
+<!--            <class name="com.belajarselenium.AdvencedAction" />-->
+            <class name="com.belajarselenium.HookTest"></class>
+            <class name="com.belajarselenium.authentication.SignInTestAdmin"></class>
+        </classes>
+    </test>
+</suite>
